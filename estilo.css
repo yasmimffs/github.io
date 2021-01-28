@@ -1,0 +1,9 @@
+body {
+text-align: center;
+}
+ul{
+display: inline-flex;
+}
+li{
+margin:0 20px;
+}
